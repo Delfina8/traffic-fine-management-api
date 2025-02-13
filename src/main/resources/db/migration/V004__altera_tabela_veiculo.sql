@@ -1,0 +1,1 @@
+ALTER TABLE veiculo MODIFY status varchar(15);
