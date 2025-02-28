@@ -48,7 +48,7 @@ GET /veiculos/{veiculoId}/autuacoes
 POST /veiculos/{veiculoId}/autuacoes
 ```
 {
-	"descricao": "string",
+  "descricao": "string",
   "valorMulta": "450"
 }
 ```
