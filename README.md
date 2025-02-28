@@ -14,9 +14,13 @@ O Traffic Fine Management API é uma aplicação desenvolvida em Java utilizando
 # API Endpoints
 ### Proprietário
 GET /proprietarios/{proprietarioId}
+
 GET /proprietarios
+
 POST /proprietarios
+
 PUT /proprietarios/{proprietarioId}
+
 DELETE /proprietarios/{proprietarioId}
 ```
 {
@@ -28,10 +32,15 @@ DELETE /proprietarios/{proprietarioId}
 
 ### Veículo
 GET /veiculos
+
 GET /veiculos/{veiculoId}
+
 POST /veiculos
+
 PUT /veiculos/{veiculoId}/apreensao
+
 DELETE /veiculos/{veiculoId}/apreensao
+
 ```
 {
 	"proprietario": {
@@ -45,6 +54,7 @@ DELETE /veiculos/{veiculoId}/apreensao
 
 ### Autuação
 GET /veiculos/{veiculoId}/autuacoes
+
 POST /veiculos/{veiculoId}/autuacoes
 ```
 {
