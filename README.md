@@ -7,6 +7,7 @@ O Traffic Fine Management API é uma aplicação desenvolvida em Java utilizando
 - Java 17
 - Spring Boot
 - Spring Data JPA
+- Springdoc-OpenApi
 - Lombok
 - MySQL
 - Flyway
