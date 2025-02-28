@@ -14,13 +14,9 @@ O Traffic Fine Management API é uma aplicação desenvolvida em Java utilizando
 # API Endpoints
 ### Proprietário
 GET /proprietarios/{proprietarioId}
-
 GET /proprietarios
-
 POST /proprietarios
-
 PUT /proprietarios/{proprietarioId}
-
 DELETE /proprietarios/{proprietarioId}
 ```
 {
