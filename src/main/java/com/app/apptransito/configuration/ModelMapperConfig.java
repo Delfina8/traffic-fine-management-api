@@ -1,4 +1,4 @@
-package com.app.apptransito.common;
+package com.app.apptransito.configuration;
 
 import com.app.apptransito.api.representationmodel.VeiculoRepresentationModel;
 import com.app.apptransito.domain.model.Veiculo;
